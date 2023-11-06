@@ -17,6 +17,13 @@
 * [Markdown syntax](https://www.markdownguide.org/basic-syntax/)
 
 ### **5. Class Materials**
+
+|#|Sessions|Keywords|
+|:-:|:-:|:-:|
+|1|markdown language|[font size, hyperlink, bullet points](https://github.com/ms624atyale/Graduate_Fall2023/blob/main/0_MarkDown4README_md.ipynb)|
+
+
+
 | # | Sessions | Keywords | 
 |:--:|:--:|:--:|
 | 1 | Code Cells 🐾 | [variable, assign](https://github.com/ms624atyale/EngPhonetics_Graduate/blob/main/1_CodeCells_Basic_.ipynb)|  
